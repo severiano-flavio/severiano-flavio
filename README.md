@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flávio</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-
-
-![](https://komarev.com/ghpvc/?username=severiano-flavio&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
